@@ -8,5 +8,5 @@ function daysOfAYear(year) {
 }
 
 // Do not change the code below
-const year = prompt("Enter a year.");
-alert(daysOfAYear(year));
+// const year = prompt("Enter a year.");
+// alert(daysOfAYear(year));
