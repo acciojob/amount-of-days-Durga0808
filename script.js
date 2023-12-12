@@ -6,5 +6,5 @@ function daysOfAYear(year) {
 	}
 	
 }
-const result=daysOfAYear(2022);
-console.log(result);
+const result=daysOfAYear(prompt());
+alert(result);
