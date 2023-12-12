@@ -14,3 +14,5 @@ function daysOfAYear(yer){
         return 365
     }
 }
+const year = prompt("Enter a Year");
+alert(daysOfAYear(year));
